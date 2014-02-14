@@ -1,0 +1,76 @@
+Image: koala
+Sl.No: Is the number in the Image table of report
+No. of Iteration: Total iterations taken to converge
+Each line in K-Initializations is a K value initialized
+
+	Sl. No. 2 
+	K = 2 , No. of iterations = 5
+	K-Initializations:
+			-12237511
+			-7175823
+			
+	Sl. No. 3
+	K = 5 , No. of iterations = 6
+	K-Initializations:
+			-9412276
+			-5923430
+			-9937850
+			-5793135
+			-10530482	
+			
+	Sl. No. 4
+	K = 10 , No. of iterations = 6
+	K-Initializations:
+			-4676193
+			-10859724
+			-11778502
+			-9344171
+			-2768972
+			-5465984
+			-1061965
+			-7371650
+			-7566982
+			-14474723
+			
+	Sl. No. 5
+	K = 15 , No. of iterations = 7
+	K-Initializations:
+			-3357764
+			-8554916
+			-12041157
+			-13685206
+			-9474217
+			-16448502
+			-8424100
+			-13882073
+			-9608889
+			-13949926
+			-11844550
+			-7047586
+			-11184811
+			-7766685
+			-12903149
+	
+	Sl. No. 6
+	K = 20 , No. of iterations = 6
+	K-Initializations:
+			-9544636
+			-7964060
+			-9277871
+			-4150879
+			-7571871
+			-4739425
+			-11514564
+			-16120828
+			-7766154
+			-5855829
+			-7766935
+			-7767712
+			-5852747
+			-8951199
+			-1455696
+			-7960966
+			-1383974
+			-7765634
+			-6981795
+			-8559283

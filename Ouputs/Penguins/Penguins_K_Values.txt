@@ -1,0 +1,76 @@
+Image: Penguins
+Sl.No: Is the number in the Image table of report
+No. of Iteration: Total iterations taken to converge
+Each line in K-Initializations is a K value initialized
+
+	Sl. No. 2 
+	K = 2 , No. of iterations = 4
+	K-Initializations:
+			-7563363
+			-10325616
+
+	Sl. No. 3
+	K = 5 , No. of iterations = 5
+	K-Initializations:
+			-11247272
+			-3943687
+			-8941428
+			-4210492
+			-7947542
+
+	Sl. No. 4
+	K = 10 , No. of iterations = 7
+	K-Initializations:
+			-16766651
+			-4075784
+			-16775139
+			-8801319
+			-11308427
+			-7627880
+			-8473122
+			-7892849
+			-6116657
+			-9011851
+	
+	Sl. No. 5
+	K = 5 , No. of iterations = 6
+	K-Initializations:
+			-4994568
+			-16710383
+			-2036227
+			-10845780
+			-7696493
+			-5587483
+			-16711146
+			-3482114
+			-7750421
+			-4010252
+			-16706761
+			-16776172
+			-4998177
+			-5325601
+			-6896659	
+	
+	Sl. No. 6
+	K = 10 , No. of iterations = 8
+	K-Initializations:
+			-5455378
+			-16637643
+			-4931896
+			-6176011
+			-7038561
+			-16769211
+			-5263703
+			-15982009
+			-9662807
+			-8015140
+			-985859
+			-7892841
+			-1249806
+			-9665647
+			-8208669
+			-1248263
+			-13613754
+			-5256205
+			-12952987
+			-459523
